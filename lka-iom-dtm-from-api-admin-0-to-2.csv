@@ -1,0 +1,130 @@
+id,operation,admin0Name,admin0Pcode,admin1Name,admin1Pcode,admin2Name,admin2Pcode,adminLevel,numPresentIdpInd,reportingDate,yearReportingDate,monthReportingDate,roundNumber,displacementReason,numberMales,numberFemales,idpOriginAdmin1Name,idpOriginAdmin1Pcode,assessmentType,operationStatus
+,Sri Lanka Floods (2017),Sri Lanka,LKA,,,,,0,25127,2017-07-01T00:00:00,2017,7,1,Natural disaster,,,Not available,Not available,BA,Inactive
+,Sri Lanka Floods (2017),Sri lanka,LKA,,,,,0,10020,2017-10-31T00:00:00,2017,10,2,Natural disaster,,,Not available,Not available,SA,Inactive
+,Tropical Cyclone Ditwah,Sri Lanka,LKA,,,,,0,286377,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+,Tropical Cyclone Ditwah,Sri Lanka,LKA,,,,,0,239493,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+,Tropical Cyclone Ditwah,Sri Lanka,LKA,,,,,0,272536,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+,Tropical Cyclone Ditwah,Sri Lanka,LKA,,,,,0,205238,2025-12-31T00:00:00,2025,12,4,Natural disaster,,,Not available,Not available,BA,Active
+66469,Sri Lanka Floods (2017),Sri Lanka,LKA,Sabaragamuwa,LK9,,,1,464,2017-07-01T00:00:00,2017,7,1,Natural disaster,,,Not available,Not available,BA,Inactive
+66470,Sri Lanka Floods (2017),Sri Lanka,LKA,Southern,LK3,,,1,24663,2017-07-01T00:00:00,2017,7,1,Natural disaster,,,Not available,Not available,BA,Inactive
+45851,Sri Lanka Floods (2017),Sri lanka,LKA,Sabaragamuwa,LK9,,,1,10020,2017-10-31T00:00:00,2017,10,2,Natural disaster,,,Not available,Not available,SA,Inactive
+17906,Tropical Cyclone Ditwah,Sri Lanka,LKA,North Central,LK7,,,1,34102,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+17898,Tropical Cyclone Ditwah,Sri Lanka,LKA,Central,LK2,,,1,124053,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+17902,Tropical Cyclone Ditwah,Sri Lanka,LKA,Eastern,LK5,,,1,2323,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+17909,Tropical Cyclone Ditwah,Sri Lanka,LKA,North Western,LK6,,,1,11883,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+17913,Tropical Cyclone Ditwah,Sri Lanka,LKA,Northern,LK4,,,1,28506,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+17917,Tropical Cyclone Ditwah,Sri Lanka,LKA,Sabaragamuwa,LK9,,,1,45464,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+17921,Tropical Cyclone Ditwah,Sri Lanka,LKA,Southern,LK3,,,1,20,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+17925,Tropical Cyclone Ditwah,Sri Lanka,LKA,Uva,LK8,,,1,32744,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+17929,Tropical Cyclone Ditwah,Sri Lanka,LKA,Western,LK1,,,1,7282,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+17930,Tropical Cyclone Ditwah,Sri Lanka,LKA,Western,LK1,,,1,352,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+17926,Tropical Cyclone Ditwah,Sri Lanka,LKA,Uva,LK8,,,1,40601,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+17922,Tropical Cyclone Ditwah,Sri Lanka,LKA,Southern,LK3,,,1,23,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+17918,Tropical Cyclone Ditwah,Sri Lanka,LKA,Sabaragamuwa,LK9,,,1,41049,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+17914,Tropical Cyclone Ditwah,Sri Lanka,LKA,Northern,LK4,,,1,1121,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+17910,Tropical Cyclone Ditwah,Sri Lanka,LKA,North Western,LK6,,,1,5560,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+17903,Tropical Cyclone Ditwah,Sri Lanka,LKA,Eastern,LK5,,,1,501,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+17899,Tropical Cyclone Ditwah,Sri Lanka,LKA,Central,LK2,,,1,119655,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+17907,Tropical Cyclone Ditwah,Sri Lanka,LKA,North Central,LK7,,,1,30631,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+17908,Tropical Cyclone Ditwah,Sri Lanka,LKA,North Central,LK7,,,1,1099,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+17900,Tropical Cyclone Ditwah,Sri Lanka,LKA,Central,LK2,,,1,138800,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+17904,Tropical Cyclone Ditwah,Sri Lanka,LKA,Eastern,LK5,,,1,530,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+17911,Tropical Cyclone Ditwah,Sri Lanka,LKA,North Western,LK6,,,1,3498,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+17915,Tropical Cyclone Ditwah,Sri Lanka,LKA,Northern,LK4,,,1,546,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+17919,Tropical Cyclone Ditwah,Sri Lanka,LKA,Sabaragamuwa,LK9,,,1,60893,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+17923,Tropical Cyclone Ditwah,Sri Lanka,LKA,Southern,LK3,,,1,28,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+17927,Tropical Cyclone Ditwah,Sri Lanka,LKA,Uva,LK8,,,1,42943,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+17931,Tropical Cyclone Ditwah,Sri Lanka,LKA,Western,LK1,,,1,24199,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+17932,Tropical Cyclone Ditwah,Sri Lanka,LKA,Western,LK1,,,1,664,2025-12-31T00:00:00,2025,12,4,Natural disaster,,,Not available,Not available,BA,Active
+17928,Tropical Cyclone Ditwah,Sri Lanka,LKA,Uva,LK8,,,1,38257,2025-12-31T00:00:00,2025,12,4,Natural disaster,,,Not available,Not available,BA,Active
+17924,Tropical Cyclone Ditwah,Sri Lanka,LKA,Southern,LK3,,,1,8165,2025-12-31T00:00:00,2025,12,4,Natural disaster,,,Not available,Not available,BA,Active
+17920,Tropical Cyclone Ditwah,Sri Lanka,LKA,Sabaragamuwa,LK9,,,1,39411,2025-12-31T00:00:00,2025,12,4,Natural disaster,,,Not available,Not available,BA,Active
+17916,Tropical Cyclone Ditwah,Sri Lanka,LKA,Northern,LK4,,,1,69,2025-12-31T00:00:00,2025,12,4,Natural disaster,,,Not available,Not available,BA,Active
+17912,Tropical Cyclone Ditwah,Sri Lanka,LKA,North Western,LK6,,,1,60,2025-12-31T00:00:00,2025,12,4,Natural disaster,,,Not available,Not available,BA,Active
+17905,Tropical Cyclone Ditwah,Sri Lanka,LKA,Eastern,LK5,,,1,62,2025-12-31T00:00:00,2025,12,4,Natural disaster,,,Not available,Not available,BA,Active
+17901,Tropical Cyclone Ditwah,Sri Lanka,LKA,Central,LK2,,,1,118550,2025-12-31T00:00:00,2025,12,4,Natural disaster,,,Not available,Not available,BA,Active
+30430,Sri Lanka Floods (2017),Sri Lanka,LKA,Sabaragamuwa,LK9,Ratnapura,LK91,2,464,2017-07-01T00:00:00,2017,7,1,Natural disaster,,,Not available,Not available,BA,Inactive
+46000,Sri Lanka Floods (2017),Sri Lanka,LKA,Southern,LK3,Matara,LK32,2,24663,2017-07-01T00:00:00,2017,7,1,Natural disaster,,,Not available,Not available,BA,Inactive
+157018,Sri Lanka Floods (2017),Sri lanka,LKA,Sabaragamuwa,LK9,Ratnapura,LK91,2,10020,2017-10-31T00:00:00,2017,10,2,Natural disaster,,,Not available,Not available,SA,Inactive
+36155,Tropical Cyclone Ditwah,Sri Lanka,LKA,Sabaragamuwa,LK9,Kegalle,LK92,2,44341,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+1416,Tropical Cyclone Ditwah,Sri Lanka,LKA,Central,LK2,Nuwara Eliya,LK23,2,8382,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+14813,Tropical Cyclone Ditwah,Sri Lanka,LKA,Western,LK1,Colombo,LK11,2,6019,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+57708,Tropical Cyclone Ditwah,Sri Lanka,LKA,Northern,LK4,Mannar,LK42,2,26601,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+59450,Tropical Cyclone Ditwah,Sri Lanka,LKA,North Western,LK6,Kurunegala,LK61,2,4274,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+62269,Tropical Cyclone Ditwah,Sri Lanka,LKA,North Central,LK7,Polonnaruwa,LK72,2,26856,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+42679,Tropical Cyclone Ditwah,Sri Lanka,LKA,Northern,LK4,Vavuniya,LK43,2,383,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+44218,Tropical Cyclone Ditwah,Sri Lanka,LKA,Eastern,LK5,Ampara,LK52,2,2202,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+69508,Tropical Cyclone Ditwah,Sri Lanka,LKA,Eastern,LK5,Trincomalee,LK53,2,77,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+70690,Tropical Cyclone Ditwah,Sri Lanka,LKA,Central,LK2,Matale,LK22,2,14189,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+75004,Tropical Cyclone Ditwah,Sri Lanka,LKA,Western,LK1,Gampaha,LK12,2,1259,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+82407,Tropical Cyclone Ditwah,Sri Lanka,LKA,Eastern,LK5,Batticaloa,LK51,2,44,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+83595,Tropical Cyclone Ditwah,Sri Lanka,LKA,Southern,LK3,Matara,LK32,2,4,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+87895,Tropical Cyclone Ditwah,Sri Lanka,LKA,Northern,LK4,Mullaitivu,LK44,2,14,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+102693,Tropical Cyclone Ditwah,Sri Lanka,LKA,Northern,LK4,Kilinochchi,LK45,2,8,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+107811,Tropical Cyclone Ditwah,Sri Lanka,LKA,Sabaragamuwa,LK9,Ratnapura,LK91,2,1123,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+119038,Tropical Cyclone Ditwah,Sri Lanka,LKA,North Central,LK7,Anuradhapura,LK71,2,7246,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+120368,Tropical Cyclone Ditwah,Sri Lanka,LKA,Central,LK2,Kandy,LK21,2,101482,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+124620,Tropical Cyclone Ditwah,Sri Lanka,LKA,Uva,LK8,Moneragala,LK82,2,142,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+129806,Tropical Cyclone Ditwah,Sri Lanka,LKA,Western,LK1,Kalutara,LK13,2,4,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+140651,Tropical Cyclone Ditwah,Sri Lanka,LKA,Uva,LK8,Badulla,LK81,2,32602,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+141460,Tropical Cyclone Ditwah,Sri Lanka,LKA,Southern,LK3,Hambantota,LK33,2,16,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+142479,Tropical Cyclone Ditwah,Sri Lanka,LKA,North Western,LK6,Puttalam,LK62,2,7609,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+143155,Tropical Cyclone Ditwah,Sri Lanka,LKA,Northern,LK4,Jaffna,LK41,2,1500,2025-12-07T00:00:00,2025,12,1,Natural disaster,,,Not available,Not available,BA,Active
+150916,Tropical Cyclone Ditwah,Sri Lanka,LKA,North Western,LK6,Puttalam,LK62,2,2508,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+142857,Tropical Cyclone Ditwah,Sri Lanka,LKA,Eastern,LK5,Ampara,LK52,2,444,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+125212,Tropical Cyclone Ditwah,Sri Lanka,LKA,North Central,LK7,Anuradhapura,LK71,2,29259,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+127424,Tropical Cyclone Ditwah,Sri Lanka,LKA,Central,LK2,Nuwara Eliya,LK23,2,20825,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+118955,Tropical Cyclone Ditwah,Sri Lanka,LKA,Southern,LK3,Galle,LK31,2,4,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+116757,Tropical Cyclone Ditwah,Sri Lanka,LKA,Central,LK2,Matale,LK22,2,14217,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+108452,Tropical Cyclone Ditwah,Sri Lanka,LKA,Sabaragamuwa,LK9,Kegalle,LK92,2,40536,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+111250,Tropical Cyclone Ditwah,Sri Lanka,LKA,Central,LK2,Kandy,LK21,2,84613,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+116386,Tropical Cyclone Ditwah,Sri Lanka,LKA,Eastern,LK5,Batticaloa,LK51,2,44,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+106746,Tropical Cyclone Ditwah,Sri Lanka,LKA,Sabaragamuwa,LK9,Ratnapura,LK91,2,513,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+94337,Tropical Cyclone Ditwah,Sri Lanka,LKA,Southern,LK3,Hambantota,LK33,2,19,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+29475,Tropical Cyclone Ditwah,Sri Lanka,LKA,Western,LK1,Colombo,LK11,2,242,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+44493,Tropical Cyclone Ditwah,Sri Lanka,LKA,Uva,LK8,Badulla,LK81,2,40501,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+30508,Tropical Cyclone Ditwah,Sri Lanka,LKA,Eastern,LK5,Trincomalee,LK53,2,13,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+60422,Tropical Cyclone Ditwah,Sri Lanka,LKA,North Central,LK7,Polonnaruwa,LK72,2,1372,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+46142,Tropical Cyclone Ditwah,Sri Lanka,LKA,Northern,LK4,Kilinochchi,LK45,2,8,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+16015,Tropical Cyclone Ditwah,Sri Lanka,LKA,Northern,LK4,Vavuniya,LK43,2,232,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+20233,Tropical Cyclone Ditwah,Sri Lanka,LKA,Northern,LK4,Jaffna,LK41,2,244,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+2381,Tropical Cyclone Ditwah,Sri Lanka,LKA,Uva,LK8,Moneragala,LK82,2,100,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+36651,Tropical Cyclone Ditwah,Sri Lanka,LKA,North Western,LK6,Kurunegala,LK61,2,3052,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+39361,Tropical Cyclone Ditwah,Sri Lanka,LKA,Western,LK1,Gampaha,LK12,2,110,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+25140,Tropical Cyclone Ditwah,Sri Lanka,LKA,Northern,LK4,Mannar,LK42,2,637,2025-12-12T00:00:00,2025,12,2,Natural disaster,,,Not available,Not available,BA,Active
+25368,Tropical Cyclone Ditwah,Sri Lanka,LKA,Western,LK1,Colombo,LK11,2,23125,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+275,Tropical Cyclone Ditwah,Sri Lanka,LKA,Southern,LK3,Hambantota,LK33,2,20,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+41289,Tropical Cyclone Ditwah,Sri Lanka,LKA,Central,LK2,Matale,LK22,2,25739,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+6369,Tropical Cyclone Ditwah,Sri Lanka,LKA,Uva,LK8,Moneragala,LK82,2,152,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+7525,Tropical Cyclone Ditwah,Sri Lanka,LKA,Northern,LK4,Kilinochchi,LK45,2,4,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+8811,Tropical Cyclone Ditwah,Sri Lanka,LKA,Eastern,LK5,Batticaloa,LK51,2,44,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+20478,Tropical Cyclone Ditwah,Sri Lanka,LKA,North Western,LK6,Kurunegala,LK61,2,825,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+21618,Tropical Cyclone Ditwah,Sri Lanka,LKA,Sabaragamuwa,LK9,Ratnapura,LK91,2,19399,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+49130,Tropical Cyclone Ditwah,Sri Lanka,LKA,Northern,LK4,Jaffna,LK41,2,47,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+53471,Tropical Cyclone Ditwah,Sri Lanka,LKA,Northern,LK4,Mannar,LK42,2,435,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+54639,Tropical Cyclone Ditwah,Sri Lanka,LKA,Sabaragamuwa,LK9,Kegalle,LK92,2,41494,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+57005,Tropical Cyclone Ditwah,Sri Lanka,LKA,Central,LK2,Nuwara Eliya,LK23,2,34008,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+67960,Tropical Cyclone Ditwah,Sri Lanka,LKA,Northern,LK4,Vavuniya,LK43,2,60,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+34535,Tropical Cyclone Ditwah,Sri Lanka,LKA,North Central,LK7,Polonnaruwa,LK72,2,119,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+43564,Tropical Cyclone Ditwah,Sri Lanka,LKA,Southern,LK3,Matara,LK32,2,4,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+87766,Tropical Cyclone Ditwah,Sri Lanka,LKA,Western,LK1,Kalutara,LK13,2,4,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+89144,Tropical Cyclone Ditwah,Sri Lanka,LKA,North Western,LK6,Puttalam,LK62,2,2673,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+84385,Tropical Cyclone Ditwah,Sri Lanka,LKA,Southern,LK3,Galle,LK31,2,4,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+116434,Tropical Cyclone Ditwah,Sri Lanka,LKA,Uva,LK8,Badulla,LK81,2,42791,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+117362,Tropical Cyclone Ditwah,Sri Lanka,LKA,North Central,LK7,Anuradhapura,LK71,2,980,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+117888,Tropical Cyclone Ditwah,Sri Lanka,LKA,Central,LK2,Kandy,LK21,2,79053,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+122271,Tropical Cyclone Ditwah,Sri Lanka,LKA,Eastern,LK5,Ampara,LK52,2,444,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+135471,Tropical Cyclone Ditwah,Sri Lanka,LKA,Western,LK1,Gampaha,LK12,2,1070,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+139738,Tropical Cyclone Ditwah,Sri Lanka,LKA,Eastern,LK5,Trincomalee,LK53,2,42,2025-12-24T00:00:00,2025,12,3,Natural disaster,,,Not available,Not available,BA,Active
+130755,Tropical Cyclone Ditwah,Sri Lanka,LKA,Sabaragamuwa,LK9,Ratnapura,LK91,2,206,2025-12-31T00:00:00,2025,12,4,Natural disaster,,,Not available,Not available,BA,Active
+122082,Tropical Cyclone Ditwah,Sri Lanka,LKA,Sabaragamuwa,LK9,Kegalle,LK92,2,39205,2025-12-31T00:00:00,2025,12,4,Natural disaster,,,Not available,Not available,BA,Active
+85618,Tropical Cyclone Ditwah,Sri Lanka,LKA,Central,LK2,Kandy,LK21,2,30202,2025-12-31T00:00:00,2025,12,4,Natural disaster,,,Not available,Not available,BA,Active
+85704,Tropical Cyclone Ditwah,Sri Lanka,LKA,Uva,LK8,Badulla,LK81,2,38257,2025-12-31T00:00:00,2025,12,4,Natural disaster,,,Not available,Not available,BA,Active
+82234,Tropical Cyclone Ditwah,Sri Lanka,LKA,Western,LK1,Colombo,LK11,2,664,2025-12-31T00:00:00,2025,12,4,Natural disaster,,,Not available,Not available,BA,Active
+99729,Tropical Cyclone Ditwah,Sri Lanka,LKA,North Western,LK6,Puttalam,LK62,2,38,2025-12-31T00:00:00,2025,12,4,Natural disaster,,,Not available,Not available,BA,Active
+102139,Tropical Cyclone Ditwah,Sri Lanka,LKA,North Western,LK6,Kurunegala,LK61,2,22,2025-12-31T00:00:00,2025,12,4,Natural disaster,,,Not available,Not available,BA,Active
+107605,Tropical Cyclone Ditwah,Sri Lanka,LKA,Central,LK2,Matale,LK22,2,19309,2025-12-31T00:00:00,2025,12,4,Natural disaster,,,Not available,Not available,BA,Active
+45299,Tropical Cyclone Ditwah,Sri Lanka,LKA,Northern,LK4,Mullaitivu,LK44,2,69,2025-12-31T00:00:00,2025,12,4,Natural disaster,,,Not available,Not available,BA,Active
+45811,Tropical Cyclone Ditwah,Sri Lanka,LKA,Central,LK2,Nuwara Eliya,LK23,2,69039,2025-12-31T00:00:00,2025,12,4,Natural disaster,,,Not available,Not available,BA,Active
+561,Tropical Cyclone Ditwah,Sri Lanka,LKA,Eastern,LK5,Trincomalee,LK53,2,62,2025-12-31T00:00:00,2025,12,4,Natural disaster,,,Not available,Not available,BA,Active
+145419,Tropical Cyclone Ditwah,Sri Lanka,LKA,Southern,LK3,Hambantota,LK33,2,8165,2025-12-31T00:00:00,2025,12,4,Natural disaster,,,Not available,Not available,BA,Active
